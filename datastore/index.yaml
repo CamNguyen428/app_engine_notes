@@ -1,0 +1,7 @@
+indexes:
+
+- kind: notes 
+  ancestor: yes
+  properties:
+  - name: timestamp 
+    direction: desc 
